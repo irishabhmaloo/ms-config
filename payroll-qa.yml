@@ -1,0 +1,8 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Payroll related docker APIs "
+  contactDetails:
+    name: "Prateek Bhat"
+    email: "prateek.bhatt@ukg.com"

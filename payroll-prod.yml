@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to payroll related PROD APIs "
+  contactDetails:
+    name: "Prateek Bhat"
+    email: "prateek.bhatt@ukg.com"
